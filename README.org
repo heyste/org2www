@@ -1,0 +1,18 @@
+#+TITLE: Org 2 WWW
+
+* Summary
+
+Merging the best of the following projects to enhance an Org-mode based workflow.
+
+- [[https://github.com/bastibe/org-static-blog]]
+- [[https://github.com/emacsorphanage/org-page]]
+- [[https://github.com/org-roam/org-roam]]
+
+
+* Workflow
+
+Update [[publish.sh]] with settings suitable for your environment and then run the script to launch a web server via docker.
+
+* Requirements
+
+- [[https://www.docker.com][Docker]]
